@@ -63,6 +63,8 @@ I enjoy transforming ideas into practical software solutions while continuously 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+
 
 ---
 
