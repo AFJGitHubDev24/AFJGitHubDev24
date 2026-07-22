@@ -64,7 +64,6 @@ I enjoy transforming ideas into practical software solutions while continuously 
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Google AI Studio](https://shields.io)
 
 ---
 
@@ -148,9 +147,7 @@ Text-to-Speech application built using Python.
 ## 📊 GitHub Stats
 
 > **AFJGitHubDev24**
-
-![GitHub stats](https://vercel.app/user=AFJGitHubDev24)
-![Top Langs](https://vercel.app/user=AFJGitHubDev24)
+> 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AFJGitHubDev24&theme=tokyonight)
 
 ---
