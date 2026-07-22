@@ -1,4 +1,3 @@
-```markdown
 # 👋 Hi there, I'm Alen Francis Joseph
 
 <p align="center">
@@ -172,4 +171,3 @@ Text-to-Speech application built using Python.
 
 ⭐ **Thanks for visiting my profile!**  
 Feel free to explore my repositories, contribute to projects, or connect with me. Let's build something amazing together!
-```
