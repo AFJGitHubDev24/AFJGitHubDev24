@@ -19,7 +19,7 @@ I'm a passionate developer who enjoys building software, exploring new technolog
 ## 🛠️ Tech Stack
 
 ### Languages
-- Python
+- Python vbfhjjgf
 - JavaScript
 - C++
 - Java
