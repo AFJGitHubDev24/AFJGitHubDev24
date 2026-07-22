@@ -158,14 +158,13 @@ Text-to-Speech application built using Python.
 ## 📫 Connect With Me
 
 - 📧 Email: **alenfrancis957@gmail.com**
-- 💼 LinkedIn: **www.linkedin.com/in/alen-francis-joseph-1**
-- 🌐 Portfolio: *Coming Soon*
+- 💼 LinkedIn: **www.linkedin.com/in/alen-francis-joseph-185822277 **
 
 ---
 
 ## 💡 Quote
 
-> *"Learning never exhausts the mind—it fuels innovation."*
+> **"Learning never exhausts the mind—it fuels innovation."**
 
 ---
 
