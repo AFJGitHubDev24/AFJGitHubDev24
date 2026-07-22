@@ -1,86 +1,175 @@
-# 👋 Hi, I'm Alen Francis Joseph
+```markdown
+# 👋 Hi there, I'm Alen Francis Joseph
 
-Welcome to my GitHub profile!
-
-I'm a passionate developer who enjoys building software, exploring new technologies, and continuously learning. This profile showcases some of my projects, experiments, and contributions.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;AI+%26+Machine+Learning+Enthusiast;Data+Science+Developer;Cloud+Security+Explorer;Python+Developer" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Software Developer
-- 🌱 Currently learning new technologies
-- 🤖 Interested in Artificial Intelligence and Automation
-- 🛠️ Love building useful applications
-- 📚 Always exploring something new
+I'm **Alen Francis Joseph**, a Computer Science graduate passionate about **Artificial Intelligence, Machine Learning, Data Science, Cloud Security, and Full-Stack Development**.
+
+I enjoy transforming ideas into practical software solutions while continuously exploring emerging technologies. My experience spans AI, data science, cloud security, and software engineering through internships and academic projects.
+
+- 🎓 B.Tech in Computer Science & Engineering (CUSAT)
+- 🤖 AI & Machine Learning Enthusiast
+- 📊 Data Science Developer
+- ☁️ Cloud Security Learner
+- 🌍 Based in Kerala, India
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Experience
 
-### Languages
-- Python vbfhjjgf
-- JavaScript
-- C++
-- Java
-- HTML & CSS
+### 🔹 Research Intern – Data Science
+**Ocean Oasis, Las Palmas, Spain**
 
-### Frameworks & Tools
-- React
-- Node.js
-- Git & GitHub
-- Docker
-- VS Code
+- Developed AI and data processing solutions
+- Worked on pilot test data analysis
+- Built machine learning models for ocean data
 
-### Databases
-- MySQL
-- PostgreSQL
-- MongoDB
+### 🔹 Junior Data Science Developer Intern
+**Ocean Oasis, Oslo, Norway**
+
+- Developed Python automation scripts
+- Built data processing pipelines
+- Worked on predictive analytics
+
+### 🔹 Cloud Security Intern
+**Paramount Computer Systems, Dubai**
+
+- Learned cloud security concepts
+- Worked on security implementation practices
+
+### 🔹 Python Developer Intern
+**Systecks Solutions, Mumbai**
+
+- Developed Python applications
+- Built Text-to-Speech software
+- Worked with automation tools
+
+---
+
+## 🛠 Tech Stack
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+---
+
+### Frameworks & Libraries
+
+- ReactJS
+- Django
+- Flask
+- FastAPI
+- TensorFlow
+- NumPy
+- Pandas
+
+---
+
+### Areas of Interest
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Data Science
+- ☁️ Cloud Computing
+- 🔐 Cybersecurity
+- ⚡ Generative AI
+- 💻 Software Development
+
+---
+
+## 🚀 Featured Projects
+
+### 🌊 AquaQuery Chatbot
+AI chatbot developed for analyzing Excel-based pilot test data.
+
+### 🌊 ConvLSTM Prediction Model
+Machine learning model for predicting wave and flow dynamics.
+
+### 📈 MRU Sensor & Max Heave Calculator
+Python application for processing desalination pilot data.
+
+### 🔄 PRN to CSV Converter
+Automation tool for converting binary-coded PRN files into CSV.
+
+### 🎵 Harmoni AI
+AI-powered music generation web application.
+
+### 📚 BigBook
+Research paper discovery platform integrated with an AI chatbot.
+
+### 🎙 TTS Vocalify
+Text-to-Speech application built using Python.
+
+---
+
+## 📜 Certifications
+
+- Advanced Prompt Engineering
+- GenAI Job Simulations
+- Cybersecurity Job Simulations
+- Data Science & Analytics Job Simulations
+- TCS iON Career Edge
+- NPTEL Elite – Advanced Graph Theory
+
+---
+
+## 🏆 Achievements
+
+- 🥇 IEEE AI for All Certification
+- 🏅 IEEE Entrepreneurial Champion
+
+---
+
+## 🌍 Languages
+
+- 🇮🇳 Malayalam
+- 🇬🇧 English
+- 🇩🇪 German
+- 🇪🇸 Spanish
+- 🇮🇹 Italian
 
 ---
 
 ## 📊 GitHub Stats
 
-> Replace `yourusername` with your GitHub username.
+> Replace **YOUR_GITHUB_USERNAME** with your username.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
----
-
-## 🔥 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🚀 Project One | A brief description of your project. |
-| 🤖 AI Project | Something related to AI or Machine Learning. |
-| 🌐 Web App | A modern full-stack web application. |
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
 
 ---
 
-## 📈 Current Goals
+## 📫 Connect With Me
 
-- Learn new technologies
-- Contribute to open source
-- Build impactful projects
-- Improve problem-solving skills
-
----
-
-## 🤝 Let's Connect
-
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Portfolio: https://yourwebsite.com
-- Email: you@example.com
+- 📧 Email: **alenfrancis957@gmail.com**
+- 💼 LinkedIn: **www.linkedin.com/in/alen-francis-joseph-1**
+- 🌐 Portfolio: *Coming Soon*
 
 ---
 
-## ⚡ Fun Fact
+## 💡 Quote
 
-> "Code. Learn. Build. Repeat."
+> *"Learning never exhausts the mind—it fuels innovation."*
 
 ---
 
-⭐ Thanks for visiting my profile! If you like my work, consider starring a repository or following me.
+⭐ **Thanks for visiting my profile!**  
+Feel free to explore my repositories, contribute to projects, or connect with me. Let's build something amazing together!
+```
