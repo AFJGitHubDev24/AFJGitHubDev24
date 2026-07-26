@@ -1,20 +1,20 @@
 # 👋 Hi there, I'm Alen Francis Joseph
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;AI+%26+Machine+Learning+Enthusiast;Data+Science+Developer;Cloud+Security+Explorer;Python+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate;AI+%26+Machine+Learning+Enthusiast;Data+Scientist;Cloud+Security+Explorer;Python+Developer" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm **Alen Francis Joseph**, a Computer Science graduate passionate about **Artificial Intelligence, Machine Learning, Data Science, Cloud Security, and Full-Stack Development**.
+I'm **Alen Francis Joseph**, a Computer Science graduate and currently pursuing M.Tech in Computer Science and Engineering with specialization in Data Science and Artificial Intelligence, passionate about **Artificial Intelligence, Machine Learning, Data Science, Cloud Security, and Chatbot Development**.
 
 I enjoy transforming ideas into practical software solutions while continuously exploring emerging technologies. My experience spans AI, data science, cloud security, and software engineering through internships and academic projects.
 
-- 🎓 B.Tech in Computer Science & Engineering (CUSAT)
+- 🎓 B.Tech in Computer Science & Engineering (Cochin University of Science and Technology)
 - 🤖 AI & Machine Learning Enthusiast
-- 📊 Data Science Developer
+- 📊 Data Scientist
 - ☁️ Cloud Security Learner
 - 🌍 Based in Kerala, India
 
@@ -25,8 +25,8 @@ I enjoy transforming ideas into practical software solutions while continuously 
 ### 🔹 Research Intern – Data Science
 **Ocean Oasis, Las Palmas, Spain**
 
-- Developed AI and data processing solutions
-- Worked on pilot test data analysis
+- Developed AI and data processing solutions chatbot
+- Worked on pilot test data analysis related to water desalination
 - Built machine learning models for ocean data
 
 ### 🔹 Junior Data Science Developer Intern
@@ -34,7 +34,7 @@ I enjoy transforming ideas into practical software solutions while continuously 
 
 - Developed Python automation scripts
 - Built data processing pipelines
-- Worked on predictive analytics
+- Worked on predictive analytics for flow output dynamics
 
 ### 🔹 Cloud Security Intern
 **Paramount Computer Systems, Dubai**
@@ -46,7 +46,7 @@ I enjoy transforming ideas into practical software solutions while continuously 
 **Systecks Solutions, Mumbai**
 
 - Developed Python applications
-- Built Text-to-Speech software
+- Built Text-to-Speech software named 'TTS Vocalify'
 - Worked with automation tools
 
 ---
@@ -96,34 +96,34 @@ I enjoy transforming ideas into practical software solutions while continuously 
 ### 🌊 AquaQuery Chatbot
 AI chatbot developed for analyzing Excel-based pilot test data.
 
-### 🌊 ConvLSTM Prediction Model
+### 🌊 Convolutional LSTM Prediction Model
 Machine learning model for predicting wave and flow dynamics.
 
 ### 📈 MRU Sensor & Max Heave Calculator
-Python application for processing desalination pilot data.
+Python script for processing desalination pilot data.
 
 ### 🔄 PRN to CSV Converter
 Automation tool for converting binary-coded PRN files into CSV.
 
 ### 🎵 Harmoni AI
-AI-powered music generation web application.
+AI-powered music generation web application along with the facility for offline music lyrics generation.
 
 ### 📚 BigBook
 Research paper discovery platform integrated with an AI chatbot.
 
 ### 🎙 TTS Vocalify
-Text-to-Speech application built using Python.
+Text-to-Speech application built using Python (leveraged gTTS, pytsxx3 libraries).
 
 ---
 
 ## 📜 Certifications
 
-- Advanced Prompt Engineering
-- GenAI Job Simulations
-- Cybersecurity Job Simulations
-- Data Science & Analytics Job Simulations
+- Advanced Prompt Engineering Certification from IITM Pravartak, the technology innovation hub of Indian Institute of Technology, Madras.
+- GenAI Job Simulations from Forage
+- Cybersecurity Job Simulations from Forage
+- Data Science & Analytics Job Simulations from Forage
 - TCS iON Career Edge
-- NPTEL Elite – Advanced Graph Theory
+- NPTEL Elite Certification in Advanced Graph Theory
 
 ---
 
@@ -136,11 +136,11 @@ Text-to-Speech application built using Python.
 
 ## 🌍 Languages
 
-- 🇮🇳 Malayalam
-- 🇬🇧 English
-- 🇩🇪 German
-- 🇪🇸 Spanish
-- 🇮🇹 Italian
+- 🇮🇳 Malayalam (native)
+- 🇬🇧 English (professional)
+- 🇩🇪 German (intermediate)
+- 🇪🇸 Spanish (beginner)
+- 🇮🇹 Italian (beginner)
 
 ---
 
@@ -161,7 +161,7 @@ Text-to-Speech application built using Python.
 
 ## 💡 Quote
 
-> **"Learning never exhausts the mind—it fuels innovation."**
+> **"Learning never exhausts the mind - it fuels innovation."**
 
 ---
 
