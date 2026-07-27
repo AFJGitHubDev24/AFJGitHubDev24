@@ -118,11 +118,11 @@ Text-to-Speech application built using Python (leveraged gTTS, pytsxx3 libraries
 
 ## 📜 Certifications
 
-- Advanced Prompt Engineering Certification from IITM Pravartak, the technology innovation hub of Indian Institute of Technology, Madras.
+- Advanced Prompt Engineering Certification from IITM Pravartak, the technology innovation hub of Indian Institute of Technology, Madras
 - GenAI Job Simulations from Forage
 - Cybersecurity Job Simulations from Forage
 - Data Science & Analytics Job Simulations from Forage
-- TCS iON Career Edge
+- TCS iON Career Edge Certification
 - NPTEL Elite Certification in Advanced Graph Theory
 
 ---
